@@ -1,0 +1,314 @@
+2026-09-12 20:50:42.608617 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#25a29(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: phpstorm
+2026-09-12 20:50:42.608888 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#880c5(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: phpstorm
+2026-09-12 20:50:43.240251 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1a446(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53314, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:43.240413 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#75c56(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53314, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:43.240473 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#dc804(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53314, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:43.866770 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#b9be7(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: webstorm
+2026-09-12 20:50:43.866870 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#20918(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: webstorm
+2026-09-12 20:50:44.276598 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#0b527(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: datagrip
+2026-09-12 20:50:44.276703 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#4b970(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: datagrip
+2026-09-12 20:50:45.084901 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#97182(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53322, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:45.085070 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#af504(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53322, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:45.085124 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#80afe(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53322, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:45.085171 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#ea8f1(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53322, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:45.085233 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#89b1b(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53322, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:45.085277 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#7e7e4(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53322, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:45.085322 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#e7253(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53322, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:45.085365 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#3cc21(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53322, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:45.085410 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#87a7c(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 53322, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:46.074256 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#ac644(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: rubymine
+2026-09-12 20:50:46.074412 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c473e(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: rubymine
+2026-09-12 20:50:46.074615 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#96bd2(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: clion
+2026-09-12 20:50:46.074736 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#6208b(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: clion
+2026-09-12 20:50:46.398954 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#880c5(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: phpstorm
+2026-09-12 20:50:47.239854 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#2013b(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37558, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:47.240048 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#af504(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37558, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:47.240100 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#80afe(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37558, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:47.240131 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#75c56(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37558, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:47.240177 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#3cc21(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37558, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:47.240207 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#87a7c(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37558, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:47.966646 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#6208b(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: clion
+2026-09-12 20:50:47.966781 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c473e(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: rubymine
+2026-09-12 20:50:48.809706 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#5021e(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: intellij-idea
+2026-09-12 20:50:48.809906 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#3c3db(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: intellij-idea
+2026-09-12 20:50:49.178731 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c3919(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37568, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:49.178856 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#d0354(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37568, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:50.382560 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#1c1b8(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: rider
+2026-09-12 20:50:50.382650 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c39d9(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: rider
+2026-09-12 20:50:51.993419 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#40105(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37572, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:51.993614 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#70bdc(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37572, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:51.993659 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#4b92f(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37572, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:51.993817 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#b1570(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37572, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:51.993872 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#a7a7f(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37572, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:51.993919 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c28b6(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37572, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:51.993965 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#03559(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37572, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:51.994004 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#b82b8(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37572, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:51.994133 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#02419(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37572, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:52.882113 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#3c3db(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: intellij-idea
+2026-09-12 20:50:53.974098 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#991c3(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37578, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:53.974248 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#8e7af(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37578, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:53.974296 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1629a(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37578, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:53.974366 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#5f16f(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37578, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:53.974408 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#24ae7(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 37578, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:54.374752 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#12e3a(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58512, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:54.374971 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#5320d(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58512, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:55.309268 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#8da9f(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: rustrover
+2026-09-12 20:50:55.309382 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#90158(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: rustrover
+2026-09-12 20:50:56.624946 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#b9fd1(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58520, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:56.625168 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#74dcc(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58520, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:56.625231 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#f513e(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58520, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:56.625282 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#f0970(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58520, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:56.625336 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#6db86(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58520, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:57.151341 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#615a1(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: git-ubuntu
+2026-09-12 20:50:57.151434 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#8027f(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: git-ubuntu
+2026-09-12 20:50:57.374602 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#0e8cf(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58532, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:57.374872 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#69c9c(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58532, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:57.374956 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#ac1bf(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58532, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:57.375033 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#959d1(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58532, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:57.375096 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#f4c7c(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58532, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:58.874815 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#ad0f6(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58544, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:58.874968 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#27076(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58544, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:58.875040 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#e202b(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58544, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:58.875077 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#cb241(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58544, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:58.875114 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c2305(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58544, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:58.875148 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#6e40b(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58544, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:50:59.040298 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#880d8(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: goland
+2026-09-12 20:50:59.040446 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#03c18(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: goland
+2026-09-12 20:50:59.560560 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#ba34e(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58554, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:00.026546 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#722ae(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58562, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:00.026769 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#30d54(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58562, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:00.075174 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#9c0f7(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: pycharm
+2026-09-12 20:51:00.075299 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#9ec24(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: pycharm
+2026-09-12 20:51:00.546139 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#81906(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58574, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:01.170914 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#8fdd5(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58586, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:01.171102 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#e21ee(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58586, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:01.171185 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#e4d91(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58586, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:01.928314 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#8e7cf(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58592, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:03.741300 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#62205(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58598, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:03.741488 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#ba287(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58598, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:03.741553 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#e15aa(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58598, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:03.741599 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#aca71(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58598, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:03.741641 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#e81e3(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58598, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:03.741688 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#71eb0(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58598, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:03.741734 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#5a069(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58598, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:03.741787 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#b475a(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58598, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:03.741844 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#7fa1a(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58598, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:03.741901 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#cc0ad(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58598, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:04.343381 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#c7727(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: dataspell
+2026-09-12 20:51:04.343513 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#24b91(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: dataspell
+2026-09-12 20:51:05.033499 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#2f391(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58608, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:05.033670 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#08746(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58608, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:05.033724 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1ccb9(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58608, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:05.033768 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#7a2fd(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58608, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:05.033799 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#43d3f(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58608, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:05.743343 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#bcee5(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59238, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:05.743513 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#fe863(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59238, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:05.743569 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#229ba(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59238, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:07.257667 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#a7a1d(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59252, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:07.257794 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#5a772(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59252, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:07.257852 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#feb12(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59252, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:07.257892 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#0c30f(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59252, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:07.257931 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#26ff3(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59252, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:07.702128 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#eefcb(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59254, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:07.702236 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#55fb9(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59254, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:09.480852 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#08746(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59264, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:09.480979 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#2f391(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59264, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:09.481026 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#7a2fd(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59264, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:09.481065 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1ccb9(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59264, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:11.160825 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#eefcb(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59278, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:11.160928 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#55fb9(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59278, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:13.391857 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#08746(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59288, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:13.392049 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#2f391(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59288, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:13.392106 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#7a2fd(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59288, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:13.392146 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1ccb9(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59288, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:13.392179 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#7fa1a(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59288, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:13.392217 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#cc0ad(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 59288, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:24.753430 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#5a069(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44602, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:24.753637 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#b475a(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44602, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:24.753727 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#e81e3(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44602, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:24.753781 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#71eb0(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44602, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:26.357352 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#a7a1d(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44610, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:26.357560 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#fe863(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44610, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:26.357877 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#5a772(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44610, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:26.357969 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#feb12(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44610, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:26.358065 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#0c30f(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44610, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:26.358205 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#26ff3(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44610, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:28.116588 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#9ec24(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: pycharm
+2026-09-12 20:51:28.136292 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#03c18(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: goland
+2026-09-12 20:51:28.154868 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#8027f(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: git-ubuntu
+2026-09-12 20:51:28.175489 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#90158(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: rustrover
+2026-09-12 20:51:28.256855 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c39d9(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: rider
+2026-09-12 20:51:28.257081 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#3c3db(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: intellij-idea
+2026-09-12 20:51:28.257162 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#c473e(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: rubymine
+2026-09-12 20:51:28.257182 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#6208b(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: clion
+2026-09-12 20:51:28.275298 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#4b970(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: datagrip
+2026-09-12 20:51:28.275553 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#20918(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: webstorm
+2026-09-12 20:51:28.310680 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#880c5(null) failed
+	SnapDataNotFoundException: SnapDataNotFoundException: phpstorm
+2026-09-12 20:51:29.141093 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#7e7e4(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44626, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:29.141261 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#a0955(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44626, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:29.141299 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#97182(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44626, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:29.141331 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#dc804(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44626, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:29.141368 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#af504(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44626, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:29.141399 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#80afe(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44626, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:29.141431 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#75c56(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44626, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:29.141461 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#3cc21(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44626, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:29.141497 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#87a7c(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44626, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:29.141540 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1dcb9(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44626, details: null, rawResponse: null, trailers: {})
+2026-09-12 20:51:29.141588 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#1a446(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 44626, details: null, rawResponse: null, trailers: {})

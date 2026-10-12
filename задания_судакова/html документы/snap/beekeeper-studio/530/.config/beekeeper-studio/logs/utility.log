@@ -1,0 +1,335 @@
+[2026-09-12 22:11:35.662] [warn]  (BksConfig)         Skipping copy of default.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/default.config.ini'
+[2026-09-12 22:11:35.666] [warn]  (BksConfig)         Skipping copy of default.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/default.config.ini'
+[2026-09-12 22:11:35.726] [warn]  (BksConfig)         Failed loading system config. System config path not found: /etc/beekeeper-studio/system.config.ini
+[2026-09-12 22:11:35.716] [warn]  (BksConfig)         Failed loading system config. System config path not found: /etc/beekeeper-studio/system.config.ini
+[2026-09-12 22:11:35.728] [warn]  (BksConfig)         Skipping copy of user.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+[2026-09-12 22:11:35.744] [warn]  (BksConfig)         Skipping copy of user.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+[2026-09-12 22:11:35.731] [error] (BksConfig)         Failed reading config /home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:36.133] [warn]  (BksConfig)         Failed loading user config. Ignoring. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:35.745] [error] (BksConfig)         Failed reading config /home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:36.181] [warn]  (BksConfig)         Failed loading user config. Ignoring. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:36.561] [warn]  (BksConfig)         Skipping copy of default.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/default.config.ini'
+[2026-09-12 22:11:36.579] [warn]  (BksConfig)         Failed loading system config. System config path not found: /etc/beekeeper-studio/system.config.ini
+[2026-09-12 22:11:36.587] [warn]  (BksConfig)         Skipping copy of user.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+[2026-09-12 22:11:36.589] [error] (BksConfig)         Failed reading config /home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:36.661] [warn]  (BksConfig)         Failed loading user config. Ignoring. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:37.242] [warn]  (BksConfig)         Skipping copy of default.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/default.config.ini'
+[2026-09-12 22:11:37.250] [warn]  (BksConfig)         Skipping copy of default.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/default.config.ini'
+[2026-09-12 22:11:37.287] [warn]  (BksConfig)         Failed loading system config. System config path not found: /etc/beekeeper-studio/system.config.ini
+[2026-09-12 22:11:37.285] [warn]  (BksConfig)         Failed loading system config. System config path not found: /etc/beekeeper-studio/system.config.ini
+[2026-09-12 22:11:37.290] [warn]  (BksConfig)         Skipping copy of user.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+[2026-09-12 22:11:37.292] [warn]  (BksConfig)         Skipping copy of user.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+[2026-09-12 22:11:37.422] [warn]  (BksConfig)         Skipping copy of default.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/default.config.ini'
+[2026-09-12 22:11:37.442] [warn]  (BksConfig)         Failed loading system config. System config path not found: /etc/beekeeper-studio/system.config.ini
+[2026-09-12 22:11:37.443] [warn]  (BksConfig)         Skipping copy of user.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+[2026-09-12 22:11:37.438] [warn]  (BksConfig)         Skipping copy of default.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/default.config.ini'
+[2026-09-12 22:11:37.467] [warn]  (BksConfig)         Failed loading system config. System config path not found: /etc/beekeeper-studio/system.config.ini
+[2026-09-12 22:11:37.470] [warn]  (BksConfig)         Skipping copy of user.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+[2026-09-12 22:11:37.291] [error] (BksConfig)         Failed reading config /home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:37.474] [warn]  (BksConfig)         Failed loading user config. Ignoring. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:37.296] [error] (BksConfig)         Failed reading config /home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:37.485] [warn]  (BksConfig)         Failed loading user config. Ignoring. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:37.447] [error] (BksConfig)         Failed reading config /home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:37.505] [warn]  (BksConfig)         Failed loading user config. Ignoring. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:37.472] [error] (BksConfig)         Failed reading config /home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:37.605] [warn]  (BksConfig)         Failed loading user config. Ignoring. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:41.915] [warn]  (BksConfig)         Skipping copy of default.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/default.config.ini'
+[2026-09-12 22:11:41.952] [warn]  (BksConfig)         Failed loading system config. System config path not found: /etc/beekeeper-studio/system.config.ini
+[2026-09-12 22:11:41.955] [warn]  (BksConfig)         Skipping copy of user.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+[2026-09-12 22:11:41.956] [error] (BksConfig)         Failed reading config /home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:42.113] [warn]  (BksConfig)         Failed loading user config. Ignoring. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584589:58)
+    at loadConfig2 (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584640:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584689:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:584720:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:43.861] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-ai-shell Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-ai-shell/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:23)
+    at _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:16)
+[2026-09-12 22:11:43.915] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-ai-shell Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-ai-shell/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:23)
+    at _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:16)
+[2026-09-12 22:11:43.920] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-er-diagram Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-er-diagram/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at async _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:11)
+    at async _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:5)
+[2026-09-12 22:11:43.921] [warn]  (PluginFileManager)         Found folder without manifest: bks-ai-shell. Skipping.
+[2026-09-12 22:11:43.922] [warn]  (PluginFileManager)         Found folder without manifest: bks-er-diagram. Skipping.
+[2026-09-12 22:11:43.919] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-ai-shell Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-ai-shell/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:23)
+    at _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:16)
+[2026-09-12 22:11:43.928] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-er-diagram Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-er-diagram/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at async _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:11)
+    at async _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:5)
+[2026-09-12 22:11:43.935] [warn]  (PluginFileManager)         Found folder without manifest: bks-ai-shell. Skipping.
+[2026-09-12 22:11:43.935] [warn]  (PluginFileManager)         Found folder without manifest: bks-er-diagram. Skipping.
+[2026-09-12 22:11:44.170] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-ai-shell Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-ai-shell/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:23)
+    at _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:16)
+[2026-09-12 22:11:44.184] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-er-diagram Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-er-diagram/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at async _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:11)
+    at async _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:5)
+[2026-09-12 22:11:44.186] [warn]  (PluginFileManager)         Found folder without manifest: bks-ai-shell. Skipping.
+[2026-09-12 22:11:44.186] [warn]  (PluginFileManager)         Found folder without manifest: bks-er-diagram. Skipping.
+[2026-09-12 22:11:44.326] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-ai-shell Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-ai-shell/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:23)
+    at _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:16)
+[2026-09-12 22:11:44.327] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-er-diagram Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-er-diagram/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at async _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:11)
+    at async _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:5)
+[2026-09-12 22:11:44.328] [warn]  (PluginFileManager)         Found folder without manifest: bks-ai-shell. Skipping.
+[2026-09-12 22:11:44.328] [warn]  (PluginFileManager)         Found folder without manifest: bks-er-diagram. Skipping.
+[2026-09-12 22:11:44.436] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-ai-shell Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-ai-shell/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:23)
+    at _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:16)
+[2026-09-12 22:11:44.449] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-er-diagram Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-er-diagram/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at async _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:11)
+    at async _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:5)
+[2026-09-12 22:11:44.449] [warn]  (PluginFileManager)         Found folder without manifest: bks-ai-shell. Skipping.
+[2026-09-12 22:11:44.449] [warn]  (PluginFileManager)         Found folder without manifest: bks-er-diagram. Skipping.
+[2026-09-12 22:11:45.467] [warn]  (PluginFileManager)         Found folder without manifest: bks-ai-shell. Skipping.
+[2026-09-12 22:11:45.468] [error] (PluginManager)             Failed to check for updates for plugin "bks-er-diagram" PluginSystemError: Plugin "bks-er-diagram" not found in registry.
+    at PluginRegistry.findEntry (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:668887:11)
+    at async PluginRegistry.reloadRepository (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:668919:23)
+    at async _PluginManager.checkForUpdates (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672888:18)
+    at async _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672737:13)
+[2026-09-12 22:11:46.302] [error] (BundledPluginModule)       Error installing plugin @beekeeperstudio/bks-ai-shell Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/plugins/bks-ai-shell/manifest.json'
+    at Object.readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at _BundledPlugin.getInstalledVersion (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673912:54)
+    at _BundledPlugin.isUpdateAvailable (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673905:69)
+    at BundledPluginModule.ensureInstalled (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673877:16)
+    at BundledPluginModule.installBundledPlugins (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:673851:20)
+    at _PluginManager.callHook (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672684:23)
+    at _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672727:16)
+[2026-09-12 22:11:46.305] [warn]  (PluginFileManager)         Found folder without manifest: bks-ai-shell. Skipping.
+[2026-09-12 22:11:46.306] [error] (PluginManager)             Failed to check for updates for plugin "bks-er-diagram" PluginSystemError: Plugin "bks-er-diagram" not found in registry.
+    at PluginRegistry.findEntry (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:668887:11)
+    at async PluginRegistry.reloadRepository (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:668919:23)
+    at async _PluginManager.checkForUpdates (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672888:18)
+    at async _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672737:13)
+[2026-09-12 22:11:46.791] [error] (PluginManager)             Failed to check for updates for plugin "bks-ai-shell" PluginSystemError: Plugin "bks-ai-shell" not found in registry.
+    at PluginRegistry.findEntry (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:668887:11)
+    at async PluginRegistry.reloadRepository (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:668919:23)
+    at async _PluginManager.checkForUpdates (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672888:18)
+    at async _PluginManager.initialize (/snap/beekeeper-studio/522/app/resources/app.asar/dist/utility.js:672737:13)

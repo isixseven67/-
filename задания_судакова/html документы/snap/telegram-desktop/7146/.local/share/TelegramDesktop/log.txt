@@ -1,0 +1,78 @@
+[2026.09.13 09:29:38] Launched version: 7002008, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2026.09.13 09:29:38] Executable dir: /snap/telegram-desktop/7146/usr/bin/, name: telegram-desktop
+[2026.09.13 09:29:38] Initial working dir: /home/s/
+[2026.09.13 09:29:38] Working dir: /home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/
+[2026.09.13 09:29:38] Command line: /snap/telegram-desktop/7146/usr/bin/telegram-desktop --
+[2026.09.13 09:29:38] Executable path before check: /snap/telegram-desktop/7146/usr/bin/telegram-desktop
+[2026.09.13 09:29:38] Logs started
+[2026.09.13 09:29:38] App ID: telegram-desktop_telegram-desktop
+[2026.09.13 09:29:38] Connecting local socket to snap.telegram-desktop.aa3707613ff523eb1502ef15b143f2dd...
+[2026.09.13 09:29:38] Socket connect error 0, starting server and app...
+[2026.09.13 09:29:38] Moved logging from '/home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/log_start0.txt' to '/home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/log.txt'!
+[2026.09.13 09:29:38] Global devicePixelRatio: 1
+[2026.09.13 09:29:38] Primary screen DPI: 120, Base: 96.
+[2026.09.13 09:29:38] Computed screen scale: 125
+[2026.09.13 09:29:38] DevicePixelRatio: 1
+[2026.09.13 09:29:38] ScreenScale: 125
+[2026.09.13 09:29:38] Icon theme: Yaru-purple
+[2026.09.13 09:29:38] Fallback icon theme: hicolor
+[2026.09.13 09:29:38] Media Info: Type Playback, default: Built-in Audio Analog Stereo, list: { "Built-in Audio Analog Stereo" <Built-in Audio Analog Stereo> }, full list refresh: true
+[2026.09.13 09:29:38] Media Info: Type Capture, default: Built-in Audio Analog Stereo, list: { "Built-in Audio Analog Stereo" <Built-in Audio Analog Stereo>, "Monitor of Built-in Audio Analog Stereo" <Monitor of Built-in Audio Analog Stereo> }, full list refresh: true
+[2026.09.13 09:29:38] Media Info: Type Camera, default: usb-0000:00:14.0-6, list: { "Integrated_Webcam_HD: Integrate" <usb-0000:00:14.0-6> }, full list refresh: true
+[2026.09.13 09:29:38] Font: from '/home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/tdata/fonts/OpenSans-Italic.ttf' loaded 'Open Sans'
+[2026.09.13 09:29:38] Font: from '/home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/tdata/fonts/OpenSans-Regular.ttf' loaded 'Open Sans'
+[2026.09.13 09:29:38] Font: from '/home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/tdata/fonts/OpenSans-SemiBold.ttf' loaded 'Open Sans'
+[2026.09.13 09:29:38] Font: from '/home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/tdata/fonts/OpenSans-SemiBold.ttf' loaded 'Open Sans Semibold'
+[2026.09.13 09:29:38] Font: from '/home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/tdata/fonts/OpenSans-SemiBoldItalic.ttf' loaded 'Open Sans'
+[2026.09.13 09:29:38] Font: from '/home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/tdata/fonts/OpenSans-SemiBoldItalic.ttf' loaded 'Open Sans Semibold'
+[2026.09.13 09:29:38] Font: from '/home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/tdata/fonts/Vazirmatn-UI-NL-Regular.ttf' loaded 'Vazirmatn UI NL'
+[2026.09.13 09:29:38] Font: from '/home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/tdata/fonts/Vazirmatn-UI-NL-SemiBold.ttf' loaded 'Vazirmatn UI NL'
+[2026.09.13 09:29:38] Font: from '/home/s/snap/telegram-desktop/7146/.local/share/TelegramDesktop/tdata/fonts/Vazirmatn-UI-NL-SemiBold.ttf' loaded 'Vazirmatn UI NL SemiBold'
+[2026.09.13 09:29:39] OpenAL Logging Level: (not set)
+[2026.09.13 09:29:39] Qt version: 6.11.2 (compiled with 6.11.2)
+[2026.09.13 09:29:39] RHI: Probe backend=OpenGL device=Intel Mesa Intel(R) UHD Graphics (TGL GT2) 4.6 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.2 compute=yes.
+[2026.09.13 09:29:39] Failed to initialize EGL display. There is no EGL_WL_bind_wayland_display extension.
+[2026.09.13 09:29:40] QRhi: backing store primed for window
+[2026.09.13 09:29:40] System tray available: [TRUE]
+[2026.09.13 09:29:40] Renderer: [QRhi] (Window)
+[2026.09.13 09:29:40] QRhi: backing store primed for window
+[2026.09.13 09:29:40] QRhi: SurfaceRhi created
+[2026.09.13 09:29:41] Notification daemon product name: gnome-shell
+[2026.09.13 09:29:41] Notification daemon vendor name: GNOME
+[2026.09.13 09:29:41] Notification daemon version: 50.1
+[2026.09.13 09:29:41] Notification daemon specification version: 1.2
+[2026.09.13 09:29:41] Notification daemon capabilities: actions, body, body-markup, icon-static, persistence, sound
+[2026.09.13 09:29:49] Config Error: No 'Date' header received.
+[2026.09.13 09:29:50] Config Error: No 'Date' header received.
+[2026.09.13 09:29:51] Config Error: No 'Date' header received.
+[2026.09.13 09:29:55] Config Error: No 'Date' header received.
+[2026.09.13 09:29:57] Config Error: No 'Date' header received.
+[2026.09.13 09:30:05] Config Error: No 'Date' header received.
+[2026.09.13 09:30:13] Config Error: No 'Date' header received.
+[2026.09.13 09:30:20] Config Error: No 'Date' header received.
+[2026.09.13 09:30:21] Config Error: No 'Date' header received.
+[2026.09.13 09:30:26] failed to create compose table
+[2026.09.13 09:30:29] Config Error: No 'Date' header received.
+[2026.09.13 09:30:37] Config Error: No 'Date' header received.
+[2026.09.13 09:30:45] Config Error: No 'Date' header received.
+[2026.09.13 09:30:51] Config Error: No 'Date' header received.
+[2026.09.13 09:30:53] Config Error: No 'Date' header received.
+[2026.09.13 09:31:01] Config Error: No 'Date' header received.
+[2026.09.13 09:31:09] Config Error: No 'Date' header received.
+[2026.09.13 09:31:15] Config Error: No 'Date' header received.
+[2026.09.13 09:31:17] Config Error: No 'Date' header received.
+[2026.09.13 09:31:25] Config Error: No 'Date' header received.
+[2026.09.13 09:31:33] Config Error: No 'Date' header received.
+[2026.09.13 09:31:39] Config Error: No 'Date' header received.
+[2026.09.13 09:31:41] Config Error: No 'Date' header received.
+[2026.09.13 09:31:49] Config Error: No 'Date' header received.
+[2026.09.13 09:31:57] Config Error: No 'Date' header received.
+[2026.09.13 09:32:03] Config Error: No 'Date' header received.
+[2026.09.13 09:32:05] Config Error: No 'Date' header received.
+[2026.09.13 09:32:11] Config Error: Could not find Answer in dns response JSON.
+[2026.09.13 09:32:12] Config Error: Could not find Answer in dns response JSON.
+[2026.09.13 09:32:12] Config Error: Could not find Answer in dns response JSON.
+[2026.09.13 09:32:16] Config Error: Could not find Answer in dns response JSON.
+[2026.09.13 09:34:12] Error: could not locate 'background.jpg' in a zip file.
+[2026.09.13 09:34:29] Config Error: No 'Date' header received.
+[2026.09.13 09:44:05] Config Error: No 'Date' header received.

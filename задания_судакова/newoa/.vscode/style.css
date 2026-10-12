@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.section{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../43cc33e9f39d3b11261be1ec4d76acd60c30bf61.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header {
+    width: 1090px;
+    height: auto;
+}
+.nav ul{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.nav p {
+    color: yellow;
+
+}

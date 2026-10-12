@@ -1,0 +1,4 @@
+2026-09-17 09:29:42.168589 ERROR error_observer: Provider storeSnapProvider:StoreSnapProvider#0845c(null) failed
+	SnapdException: SnapdException(kind: null, message: invalid snap name: "/run/user/1000/doc/4dbc1cc7/arduino-preprocessor", status: Bad Request, statusCode: 400)
+2026-09-17 09:29:42.168851 ERROR error_observer: Provider snapModelProvider:SnapModelProvider#bcaa7(null) failed
+	SnapdException: SnapdException(kind: null, message: invalid snap name: "/run/user/1000/doc/4dbc1cc7/arduino-preprocessor", status: Bad Request, statusCode: 400)

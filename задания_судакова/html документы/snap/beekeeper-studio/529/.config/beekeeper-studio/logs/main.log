@@ -1,0 +1,25 @@
+[2026-09-12 22:11:33.952] [warn]  (BksConfig)         Skipping copy of default.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/default.config.ini'
+[2026-09-12 22:11:33.999] [warn]  (BksConfig)         Failed loading system config. System config path not found: /etc/beekeeper-studio/system.config.ini
+[2026-09-12 22:11:34.001] [warn]  (BksConfig)         Skipping copy of user.config.ini. Permission denied or dest not writable: ENOENT: no such file or directory, access '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+[2026-09-12 22:11:34.001] [error] (BksConfig)         Failed reading config /home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/main.js:296975:57)
+    at loadConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/main.js:297026:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/main.js:297075:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/main.js:297106:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)
+[2026-09-12 22:11:34.067] [warn]  (BksConfig)         Failed loading user config. Ignoring. Error: ENOENT: no such file or directory, open '/home/s/snap/beekeeper-studio/522/.config/beekeeper-studio/user.config.ini'
+    at readFileSync (node:fs:440:20)
+    at t.readFileSync (node:electron/js2c/node_init:2:11013)
+    at readConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/main.js:296975:57)
+    at loadConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/main.js:297026:10)
+    at mainBksConfig (/snap/beekeeper-studio/522/app/resources/app.asar/dist/main.js:297075:18)
+    at Object.<anonymous> (/snap/beekeeper-studio/522/app/resources/app.asar/dist/main.js:297106:15)
+    at Module._compile (node:internal/modules/cjs/loader:1713:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1847:10)
+    at Module.load (node:internal/modules/cjs/loader:1448:32)
+    at Module._load (node:internal/modules/cjs/loader:1270:12)

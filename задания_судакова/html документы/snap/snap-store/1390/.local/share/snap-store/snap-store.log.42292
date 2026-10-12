@@ -1,0 +1,14 @@
+2026-09-12 22:17:28.056880 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#fb5b8(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 58162, details: null, rawResponse: null, trailers: {})
+2026-09-12 22:17:32.595793 ERROR main: Error propagated to top-level
+	SnapdException: SnapdException(kind: auth-cancelled, message: cancelled, status: Forbidden, statusCode: 403)
+#0      _SnapdErrorResponse.result (package:snapd/src/snapd_client.dart:704)
+#1      SnapdClient._openAsync (package:snapd/src/snapd_client.dart:1554)
+<asynchronous suspension>
+#2      SnapdClient._postAsync (package:snapd/src/snapd_client.dart:1535)
+<asynchronous suspension>
+#3      SnapModel.remove (package:app_center/snapd/snap_model.dart:157)
+<asynchronous suspension>
+
+2026-09-12 22:17:55.743209 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#fb5b8(null) failed
+	GrpcError: gRPC Error (code: 14, codeName: UNAVAILABLE, message: Error connecting: SocketException: Connection refused (OS Error: Connection refused, errno = 111), address = ratings.ubuntu.com, port = 42026, details: null, rawResponse: null, trailers: {})

@@ -1,0 +1,2 @@
+2026-09-12 21:25:56.671757 ERROR error_observer: Provider localDebModelProvider:LocalDebModelProvider#9077c(null) failed
+	DBusMethodResponseException: org.freedesktop.PackageKit.Transaction.NoSuchFile: File /home/s/trash:///Yandex.deb is not found or unsupported
